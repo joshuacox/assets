@@ -985,29 +985,33 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:54.53372574px;line-height:7.1007452px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:1.735147;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="13.856928"
-       y="127.0703"
-       id="text1012"
-       transform="scale(0.67859787,1.4736268)"><tspan
-         sodipodi:role="line"
-         id="tspan1010"
-         x="13.856928"
-         y="127.0703"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.3479805px;font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, Bold';fill:#00ff00;stroke:none;stroke-width:1.735147;stroke-miterlimit:4;stroke-dasharray:none">   TAWKYARD</tspan></text>
     <g
-       aria-label="$"
-       transform="matrix(0.94241897,0,0,1.4994891,-7.3011057,-14.445145)"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:51.24376678px;line-height:6.67236423px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:1.6304673;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="text1052">
-      <path
-         d="m 28.423537,122.20532 v 7.21249 c 3.055896,-0.13035 4.583844,-1.25277 4.583844,-3.36727 0,-1.73795 -1.527948,-3.01969 -4.583844,-3.84522 z m -2.889342,-8.8201 v -6.23489 c -3.142793,0.14483 -4.71419,1.12966 -4.71419,2.95451 0,0.57932 0.260693,1.12243 0.782078,1.62933 0.550351,0.52139 1.861055,1.07174 3.932112,1.65105 z m 0,15.75018 v -7.75561 c -4.040734,-1.11518 -6.814213,-2.45485 -8.320436,-4.01901 -1.535189,-1.57863 -2.302784,-3.4252 -2.302784,-5.53971 0,-2.59244 0.948631,-4.68522 2.845893,-6.27835 1.897263,-1.59312 4.489705,-2.48382 7.777327,-2.67209 v -1.17312 h 2.889342 v 1.15139 c 3.316589,0.17379 5.916273,1.00656 7.799052,2.4983 1.882779,1.49175 2.824169,3.36004 2.824169,5.60489 0,0.27518 -0.0072,0.51415 -0.02172,0.71691 h -6.778005 c 0,-1.28898 -0.340349,-2.25934 -1.021046,-2.91107 -0.680697,-0.66621 -1.614846,-1.11518 -2.802445,-1.34691 v 6.84318 c 4.533153,1.33243 7.523876,2.83865 8.972168,4.51867 1.462775,1.72347 2.194162,3.64969 2.194162,5.77868 0,2.36072 -0.926907,4.42454 -2.78072,6.19145 -1.824848,1.73795 -4.620051,2.66486 -8.38561,2.78072 v 0.9875 H 25.5342 v -1.09612 c -4.185563,-0.43449 -7.089388,-1.4845 -8.711475,-3.15004 -1.63657,-1.66553 -2.454855,-3.389 -2.454855,-5.1704 0,-0.15931 0.02172,-0.44173 0.06517,-0.84725 h 7.103871 c -0.07241,2.60693 1.260013,4.23626 3.997284,4.88799 z"
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, Ultra-Bold';stroke:#00ff00;stroke-width:1.6304673"
-         id="path1062"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccscccscccccsccccccsccccccsccccccsccc" />
+       id="g977"
+       transform="translate(1.8344208)">
+      <text
+         transform="scale(0.67859787,1.4736268)"
+         id="text1012"
+         y="127.0703"
+         x="13.856928"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:54.53372574px;line-height:7.1007452px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:1.735147;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.3479805px;font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, Bold';fill:#00ff00;stroke:none;stroke-width:1.735147;stroke-miterlimit:4;stroke-dasharray:none"
+           y="127.0703"
+           x="13.856928"
+           id="tspan1010"
+           sodipodi:role="line">   TAWKYARD</tspan></text>
+      <g
+         id="text1052"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:51.24376678px;line-height:6.67236423px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:1.6304673;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(0.94241897,0,0,1.4994891,-7.3011057,-14.445145)"
+         aria-label="$">
+        <path
+           sodipodi:nodetypes="ccscccscccccsccccccsccccccsccccccsccc"
+           inkscape:connector-curvature="0"
+           id="path1062"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, Ultra-Bold';stroke:#00ff00;stroke-width:1.6304673"
+           d="m 28.423537,122.20532 v 7.21249 c 3.055896,-0.13035 4.583844,-1.25277 4.583844,-3.36727 0,-1.73795 -1.527948,-3.01969 -4.583844,-3.84522 z m -2.889342,-8.8201 v -6.23489 c -3.142793,0.14483 -4.71419,1.12966 -4.71419,2.95451 0,0.57932 0.260693,1.12243 0.782078,1.62933 0.550351,0.52139 1.861055,1.07174 3.932112,1.65105 z m 0,15.75018 v -7.75561 c -4.040734,-1.11518 -6.814213,-2.45485 -8.320436,-4.01901 -1.535189,-1.57863 -2.302784,-3.4252 -2.302784,-5.53971 0,-2.59244 0.948631,-4.68522 2.845893,-6.27835 1.897263,-1.59312 4.489705,-2.48382 7.777327,-2.67209 v -1.17312 h 2.889342 v 1.15139 c 3.316589,0.17379 5.916273,1.00656 7.799052,2.4983 1.882779,1.49175 2.824169,3.36004 2.824169,5.60489 0,0.27518 -0.0072,0.51415 -0.02172,0.71691 h -6.778005 c 0,-1.28898 -0.340349,-2.25934 -1.021046,-2.91107 -0.680697,-0.66621 -1.614846,-1.11518 -2.802445,-1.34691 v 6.84318 c 4.533153,1.33243 7.523876,2.83865 8.972168,4.51867 1.462775,1.72347 2.194162,3.64969 2.194162,5.77868 0,2.36072 -0.926907,4.42454 -2.78072,6.19145 -1.824848,1.73795 -4.620051,2.66486 -8.38561,2.78072 v 0.9875 H 25.5342 v -1.09612 c -4.185563,-0.43449 -7.089388,-1.4845 -8.711475,-3.15004 -1.63657,-1.66553 -2.454855,-3.389 -2.454855,-5.1704 0,-0.15931 0.02172,-0.44173 0.06517,-0.84725 h 7.103871 c -0.07241,2.60693 1.260013,4.23626 3.997284,4.88799 z" />
+      </g>
     </g>
   </g>
 </svg>
